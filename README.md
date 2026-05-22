@@ -8,7 +8,7 @@ Passionné par la conception d'architectures applicatives modernes, l'intégrati
 **En quelques mots**
 
 - Diplôme : Fin de Licence en Génie Logiciel.
-- Expérience récente : Stage pratique chez JED Digital Solutions, axé sur la conception et l'industrialisation de solutions d'automatisation.
+- Expérience récente : Stage pratique chez JED Digital Solutions, où j'ai conçu et mis en production une solution d'automatisation.
 - Centres d'intérêt : Prompt engineering, intégration d'APIs de LLM (Groq), architectures réseaux sécurisées et entrepreneuriat digital.
 - Objectif actuel : Déployer des applications à fort impact et continuer d'apprendre au contact d'équipes passionnées.
 
