@@ -49,5 +49,5 @@ Mise en place d'un tunnel de vente et optimisation organique de la visibilité d
 
 * 💼 **LinkedIn :** https://www.linkedin.com/in/olivier-sawadogo-32875a400?utm_source=share_via&utm_content=profile&utm_medium=member_android
 * 📧 **Email :** Sawadogoolivier.prof@gmail.com
-* 🌐 **Mon Portfolio :** *En cours de construction (Arrive bientôt !)*
+* 🌐 **Mon Portfolio :** *https://oliviersawadogocp-maker.github.io/portfolio/*
 
